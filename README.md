@@ -1,2 +1,2 @@
-# destroy_star
-消灭星星古装版
+# Eliminate_Stars
+消灭星星小游戏
